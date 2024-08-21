@@ -5,7 +5,7 @@ Small script to automate blum game play. Requires a JWT bearer token from web ap
 ## How to run
 ### For first launch
 ```
-pip install -r requirements.txt
+pip install pynput PIL
 ```
 
 ### After instal
